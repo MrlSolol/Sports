@@ -15,6 +15,9 @@ http://192.168.1.90:6878/ace/manifest.m3u8?id=9d9e6ed068f0a5058b9e803a78fa765d8a
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 5)
 http://192.168.1.90:6878/ace/manifest.m3u8?id=fbda842baf2646ce181a6560cfa3fe453c11991f
+
+#EXTINF:-1 group-title="SPORTS",SKY SPORT HD
+http://192.168.1.90:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
  
 #EXTINF:-1 group-title="SPORTS",Матч! Футбол 1 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
@@ -164,4 +167,3 @@ http://192.168.1.90:6878/ace/manifest.m3u8?id=5f569f3ecf8b4d2f2f4bc732dd7023568f
 http://192.168.1.90:6878/ace/manifest.m3u8?id=2ec1a0ea283c31b2960e0e64294ca82139a34a1a
 #EXTINF:-1 group-title="LIVE KHI CO BONG",SRACHTV 2 HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=709a34c74a31dc03c1ccf20935b63f0c06fd37e8
-
