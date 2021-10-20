@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 1)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199
+http://192.168.1.90:6878/ace/manifest.m3u8?id=6995fd79ae02f5559172feaccbfe46e0418c9502
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 2)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
+http://192.168.1.90:6878/ace/manifest.m3u8?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 3)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=e9ed9d82db929115c74f295e6c9503f47987635a
+http://192.168.1.90:6878/ace/manifest.m3u8?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
 
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 4)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
+http://192.168.1.90:6878/ace/manifest.m3u8?id=1925018afeb5d44791e4c49867c8c3259a018145
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 5)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=fbda842baf2646ce181a6560cfa3fe453c11991f
+http://192.168.1.90:6878/ace/manifest.m3u8?id=d4575f751d08f80801b2aa25e9c09aa774a95b0d
 
-#EXTINF:-1 group-title="SPORTS",SKY SPORT HD
+#EXTINF:-1 group-title="SPORTS",(Sky SPORT HD)
 http://192.168.1.90:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
  
 #EXTINF:-1 group-title="SPORTS",Матч! Футбол 1 FHD
