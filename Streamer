@@ -58,8 +58,11 @@ https://al.flv.nimo.tv/live/su1629524708445reaaebe4ac1adc25d4a8db26d2ba3a7cd.flv
 #EXTINF:-1 tvg-id="" tvg-logo=" https://img.nimo.tv/t/1599517188088/202107061625564869731_1599517188088_avatar.png/w120_l0/img.webp" group-title="Streams", Linh Ngọc Đàm
 https://al.flv.nimo.tv/backsrc/su1599517188088raad2de70bdedb3d3ab057d9853d66d3c.flv?appid=81&tp=1625580641013&ratio=6000&needwm=1&u=0&t=100&sv=2106221521
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.nimo.tv/t/201907161563280672833_1899512513851_avatar.png/w120_l0/img.webp" group-title="Streams", Mimosa Chu
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.nimo.tv/t/201907161563280672833_1899512513851_avatar.png/w120_l0/img.webp" group-title="Streams", Mimosa Chu(2K)
 https://tx.flv.nimo.tv/backsrc/su1899512513851r9c2c383fe27d6d78916da5f58fead3bc.flv?appid=81&tp=1625580587437&needwm=0&sphd=1&u=0&t=100&sv=2106221521
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.nimo.tv/t/201907161563280672833_1899512513851_avatar.png/w120_l0/img.webp" group-title="Streams", Mimosa Chu(FHD)
+https://al.flv.nimo.tv/backsrc/su1899512513851r9c2c383fe27d6d78916da5f58fead3bc.flv?appid=81&tp=1635004023023&ratio=6000&needwm=1&u=0&t=100&sv=2110081723
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.nimo.tv/t/1629512134244/202104081617885555927_1629512134244_avatar.png/w120_l0/img.webp" group-title="Streams", MeiMedkit
 https://ws.flv.nimo.tv/backsrc/su1629512134244r871e474b68c5ac93de44bc490632d2fb.flv?appid=81&tp=1625837073966&needwm=0&u=0&t=100&sv=2106221521
