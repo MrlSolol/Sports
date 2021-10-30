@@ -1,13 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="SPORTS",90P(HD)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS",90P(SD)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may10/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS",90P(FHD)
+#EXTINF:-1 group-title="SPORTS",90P(Kênh1_HD)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",90P(Kênh1_FHD)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1FHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",90P(Kênh3_HD)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3HD/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",90P(Kênh)
+
+#EXTINF:-1 group-title="SPORTS",90P(Bayer)
+https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 1)
 http://192.168.1.90:6878/ace/manifest.m3u8?id=6995fd79ae02f5559172feaccbfe46e0418c9502
@@ -25,7 +36,7 @@ http://192.168.1.90:6878/ace/manifest.m3u8?id=1925018afeb5d44791e4c49867c8c3259a
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 5)
 http://192.168.1.90:6878/ace/manifest.m3u8?id=d4575f751d08f80801b2aa25e9c09aa774a95b0d
 
-#EXTINF:-1 group-title="SPORTS",(Sky SPORT HD)
+#EXTINF:-1 group-title="SPORTS",Sky SPORT HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
  
 #EXTINF:-1 group-title="SPORTS",Матч! Футбол 1 FHD
