@@ -9,145 +9,148 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1FHD
 #EXTINF:-1 group-title="SPORTS",90P(Kênh2_HD)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3HD/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS",90P(Keenh3_HD)
+#EXTINF:-1 group-title="SPORTS",90P(Kênh3_HD)
 https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 1)
+
+
+
+
+#EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 1)
 http://192.168.1.90:6878/ace/manifest.m3u8?id=6995fd79ae02f5559172feaccbfe46e0418c9502
 
-#EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 2)
+#EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 2)
 http://192.168.1.90:6878/ace/manifest.m3u8?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
 
-#EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 3)
+#EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 3)
 http://192.168.1.90:6878/ace/manifest.m3u8?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
 
-
-#EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 4)
+#EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 4)
 http://192.168.1.90:6878/ace/manifest.m3u8?id=1925018afeb5d44791e4c49867c8c3259a018145
 
-#EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 5)
+#EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 5)
 http://192.168.1.90:6878/ace/manifest.m3u8?id=d4575f751d08f80801b2aa25e9c09aa774a95b0d
 
-#EXTINF:-1 group-title="SPORTS",Sky SPORT HD
+#EXTINF:-1 group-title="A_SPORTS",Sky SPORT HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
  
-#EXTINF:-1 group-title="SPORTS",Матч! Футбол 1 FHD
+#EXTINF:-1 group-title="A_SPORTS",Матч! Футбол 1 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
-#EXTINF:-1 group-title="SPORTS",Матч! Футбол 2 FHD
+#EXTINF:-1 group-title="A_SPORTS",Матч! Футбол 2 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
-#EXTINF:-1 group-title="SPORTS",Матч! Футбол 3 FHD
+#EXTINF:-1 group-title="A_SPORTS",Матч! Футбол 3 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=b120fc00572b516163aaa624f0d1ba095af58f9a
-#EXTINF:-1 group-title="SPORTS",Матч ТВ FHD
+#EXTINF:-1 group-title="A_SPORTS",Матч ТВ FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
-#EXTINF:-1 group-title="SPORTS",Match Premier FHD
+#EXTINF:-1 group-title="A_SPORTS",Match Premier FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
 
-#EXTINF:-1 group-title="SPORTS",SPORT TV1 FHD
+#EXTINF:-1 group-title="A_SPORTS",SPORT TV1 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=d027b34465b1ed60b45819ac6bf12070dab3d1ee
-#EXTINF:-1 group-title="SPORTS",SPORT TV2 FHD
+#EXTINF:-1 group-title="A_SPORTS",SPORT TV2 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
-#EXTINF:-1 group-title="SPORTS",SPORT TV3 FHD
+#EXTINF:-1 group-title="A_SPORTS",SPORT TV3 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=7abfed961d37a0aae62097ac6ac5678dbeeef8bd
-#EXTINF:-1 group-title="SPORTS",SPORT TV4 FHD
+#EXTINF:-1 group-title="A_SPORTS",SPORT TV4 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=e09a642d1b3d7ff62fe6838b84b007f5f2f90475
 
-#EXTINF:-1 group-title="SPORTS",DIGI SPORT 1 HU FHD
+#EXTINF:-1 group-title="A_SPORTS",DIGI SPORT 1 HU FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
-#EXTINF:-1 group-title="SPORTS",DIGI SPORT 2 HU FHD
+#EXTINF:-1 group-title="A_SPORTS",DIGI SPORT 2 HU FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=96301308f598c999279e27d035cfd78d4ec46546
-#EXTINF:-1 group-title="SPORTS",DIGI SPORT 3 HU FHD
+#EXTINF:-1 group-title="A_SPORTS",DIGI SPORT 3 HU FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=5ad076155333ea8f362bf66300333b64a3151e26
 
-#EXTINF:-1 group-title="SPORTS",SETANTA SPORT UA FHD
+#EXTINF:-1 group-title="A_SPORTS",SETANTA SPORT UA FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=4b7b97e7e516eb1e2375c8d026c2ea5aac0d4d26
-#EXTINF:-1 group-title="SPORTS",SETANTA SPORT+ UA FHD
+#EXTINF:-1 group-title="A_SPORTS",SETANTA SPORT+ UA FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
-#EXTINF:-1 group-title="SPORTS",ZIGGO SPORT SELECT FHD
+#EXTINF:-1 group-title="A_SPORTS",ZIGGO SPORT SELECT FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=38d77beafa2a8763686f76576480e9f73d9ae3e6
-#EXTINF:-1 group-title="SPORTS",CANAL+ SPORT FHD
+#EXTINF:-1 group-title="A_SPORTS",CANAL+ SPORT FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
-#EXTINF:-1 group-title="SPORTS",PREMIER SPORT CZ HD
+#EXTINF:-1 group-title="A_SPORTS",PREMIER SPORT CZ HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=b0b2db107f292437139d735b469df71c8a553f46
 
-#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 1 FHD
+#EXTINF:-1 group-title="A_SPORTS",ELEVEN A_SPORTS 1 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=5f7ba5cddba6d44435b75e28649b00393bbf2dc4
-#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 2 FHD
+#EXTINF:-1 group-title="A_SPORTS",ELEVEN A_SPORTS 2 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=572880fd38805efc2d5c9fa72a72669a00583808
-#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 3 FHD
+#EXTINF:-1 group-title="A_SPORTS",ELEVEN A_SPORTS 3 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=d7f042a816012aaa4898b1f56107a2c13c7df323
-#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 4 FHD
+#EXTINF:-1 group-title="A_SPORTS",ELEVEN A_SPORTS 4 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=0e86afa4f4aea82b00e527967eec9dc938ded8c1
 
-#EXTINF:-1 group-title="SPORTS",MOVISTAR LALIGA FHD
+#EXTINF:-1 group-title="A_SPORTS",MOVISTAR LALIGA FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=9007568a18c3a3c89fb9e745206a60554c114917
-#EXTINF:-1 group-title="SPORTS",MOVISTAR LIGA DE CAMPEONES FHD
+#EXTINF:-1 group-title="A_SPORTS",MOVISTAR LIGA DE CAMPEONES FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
-#EXTINF:-1 group-title="SPORTS",MOVISTAR DEPORTES FHD
+#EXTINF:-1 group-title="A_SPORTS",MOVISTAR DEPORTES FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=57fb15b9403695ef6eaa79699a7ea5c374e4fa2f
-#EXTINF:-1 group-title="SPORTS",MOVISTAR GOLF FHD
+#EXTINF:-1 group-title="A_SPORTS",MOVISTAR GOLF FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=b93ec5d6adee1c59192ae9811b0d5df66adc29af
-#EXTINF:-1 group-title="SPORTS",MOVISTAR TOROS FHD
+#EXTINF:-1 group-title="A_SPORTS",MOVISTAR TOROS FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=a6b3bd14c848f9b9573cbc52e08dca6b76059349
-#EXTINF:-1 group-title="SPORTS",MOVISTAR FORMULA 1 FHD
+#EXTINF:-1 group-title="A_SPORTS",MOVISTAR FORMULA 1 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=00e0f5e4990c1177512fed77430a9c3f945b4893
 
-#EXTINF:-1 group-title="SPORTS",SPORT 1 IL HD
+#EXTINF:-1 group-title="A_SPORTS",SPORT 1 IL HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=1885e9bcdda920291dd640c32ac3b137dc7a7b95
-#EXTINF:-1 group-title="SPORTS",SPORT 2 IL HD
+#EXTINF:-1 group-title="A_SPORTS",SPORT 2 IL HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=d342fee30beccf53f2563f5b81e4e909e57202bf
-#EXTINF:-1 group-title="SPORTS",SPORT 3 IL HD
+#EXTINF:-1 group-title="A_SPORTS",SPORT 3 IL HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=9ba8774882f10a28c986644f0aaff997e3fb3ca9
-#EXTINF:-1 group-title="SPORTS",SPORT 4 IL HD
+#EXTINF:-1 group-title="A_SPORTS",SPORT 4 IL HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=5bfbc045dab5bf27841aeae8b1d1f1a111dd1799
-#EXTINF:-1 group-title="SPORTS",SPORT 5 (5 STARS) IL HD
+#EXTINF:-1 group-title="A_SPORTS",SPORT 5 (5 STARS) IL HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=347750a65beffd8f53245fe784fd399abf09b124
-#EXTINF:-1 group-title="SPORTS",SPORT 5+ (5 LIVE) IL HD
+#EXTINF:-1 group-title="A_SPORTS",SPORT 5+ (5 LIVE) IL HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=f25827c9d236a4ec19cd49394e495928dd7813da
 
-#EXTINF:-1 group-title="SPORTS",DIGI SPORT 1 RO FHD
+#EXTINF:-1 group-title="A_SPORTS",DIGI SPORT 1 RO FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=c575315526a0b6a1a75bd6ebe548b62b7dc50a82
-#EXTINF:-1 group-title="SPORTS",DIGI SPORT 2 RO FHD
+#EXTINF:-1 group-title="A_SPORTS",DIGI SPORT 2 RO FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=3b3d22e60aa72aff95a92e7667878f63ba898a50
-#EXTINF:-1 group-title="SPORTS",DIGI SPORT 3 RO HD
+#EXTINF:-1 group-title="A_SPORTS",DIGI SPORT 3 RO HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=d7dc8278134b0f04bce75fca7826ba3f6121381b
-#EXTINF:-1 group-title="SPORTS",DIGI SPORT 4 RO HD
+#EXTINF:-1 group-title="A_SPORTS",DIGI SPORT 4 RO HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=ede354f7f0ca2009484a0795180031d24ffeec9d
 
-#EXTINF:-1 group-title="SPORTS",TV3 SPORT FHD
+#EXTINF:-1 group-title="A_SPORTS",TV3 SPORT FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=024526a5659202ec13b077f21ea8e6044d6d7df2
-#EXTINF:-1 group-title="SPORTS",TV3 SPORT 2 FHD
+#EXTINF:-1 group-title="A_SPORTS",TV3 SPORT 2 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=8172d547d41ff1b8b30ec3f39601ca96269c6d43
 
-#EXTINF:-1 group-title="SPORTS",NOVA SPORT 1 CZ FHD
+#EXTINF:-1 group-title="A_SPORTS",NOVA SPORT 1 CZ FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=d8c921e06e63427c97f423a4cdd63af05cc04f6e
-#EXTINF:-1 group-title="SPORTS",NOVA SPORT 2 CZ FHD
+#EXTINF:-1 group-title="A_SPORTS",NOVA SPORT 2 CZ FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=ecb8eaa3013119be6707cc16540ad455db33a512
 
-#EXTINF:-1 group-title="SPORTS",SKY SPORT 1 DE FHD
+#EXTINF:-1 group-title="A_SPORTS",SKY SPORT 1 DE FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
-#EXTINF:-1 group-title="SPORTS",SKY SPORT 1 AU FHD
+#EXTINF:-1 group-title="A_SPORTS",SKY SPORT 1 AU FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
 
-#EXTINF:-1 group-title="SPORTS",SPORT 1 CZ FHD
+#EXTINF:-1 group-title="A_SPORTS",SPORT 1 CZ FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=80c56f650421f104181a46a5d318584f3d9b64eb
-#EXTINF:-1 group-title="SPORTS",SPORT 2 CZ FHD
+#EXTINF:-1 group-title="A_SPORTS",SPORT 2 CZ FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=b4a583fac6636b17823c327252dd7640a8d64f3d
 
-#EXTINF:-1 group-title="SPORTS",SPORT 1 HU FHD
+#EXTINF:-1 group-title="A_SPORTS",SPORT 1 HU FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=fd32c653e3e913a1ee8d654dafbfab9d86a464eb
-#EXTINF:-1 group-title="SPORTS",ARENA SPORT 1 SK FHD
+#EXTINF:-1 group-title="A_SPORTS",ARENA SPORT 1 SK FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=e4c0aff2c98cc3bd09f678325ae09d8d560f2705
 
-#EXTINF:-1 group-title="SPORTS",FORMULA 1 FHD
+#EXTINF:-1 group-title="A_SPORTS",FORMULA 1 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=00e0f5e4990c1177512fed77430a9c3f945b4893
-#EXTINF:-1 group-title="SPORTS",NBA TV FHD
+#EXTINF:-1 group-title="A_SPORTS",NBA TV FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=eb24f16f4c86976dfa96b928789bd2db4dcf15b7
 
-#EXTINF:-1 group-title="SPORTS",BT SPORT 1 FHD
+#EXTINF:-1 group-title="A_SPORTS",BT SPORT 1 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=41f81707796e0a76cd47d4deacab53331c6091d1
-#EXTINF:-1 group-title="SPORTS",BT SPORT 2 FHD
+#EXTINF:-1 group-title="A_SPORTS",BT SPORT 2 FHD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=9bc99fe1f47cff0083ef12cf5528da13bdf868d0
 
 
