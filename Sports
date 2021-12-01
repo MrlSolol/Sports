@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="SPORTS",90P(Kênh1_HD)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/chunklist.m3u8
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may0HD/playlist.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS",90P(Kênh1_FHD)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1FHD/chunklist.m3u8
