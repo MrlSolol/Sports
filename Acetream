@@ -4,26 +4,28 @@
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 1)
 #EXTVLCOPT:network-caching=1000
-acestream://6995fd79ae02f5559172feaccbfe46e0418c9502
-
+acestream://fa149a0a37809ebfca5148041c3888498eaae429
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 2)
 #EXTVLCOPT:network-caching=1000
-acestream://ef85d17ddd020e6d5924338ee8a246a6be1c7eff
+acestream://12722d111be8a2e069af83d535d5fd0b39734712
+
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 3)
 #EXTVLCOPT:network-caching=1000
-acestream://bdc6c6efb3572f2710ac16eee1e2e471ea621017
-
+acestream://3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 4)
 #EXTVLCOPT:network-caching=1000
-acestream://1925018afeb5d44791e4c49867c8c3259a018145
+acestream://27618f71bc2611dca58af879642e0b507d0f39a0
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 5)
 #EXTVLCOPT:network-caching=1000
-acestream://d4575f751d08f80801b2aa25e9c09aa774a95b0d
- 
+acestream://058a9ac982d6d29131f9bd277111f22de28400da
+
+
+
+
 #EXTINF:-1 group-title="SPORTS",Матч! Футбол 1 FHD
 acestream://dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
 #EXTINF:-1 group-title="SPORTS",Матч! Футбол 2 FHD
