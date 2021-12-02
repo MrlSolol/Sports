@@ -1,3 +1,6 @@
+
+
+
 #EXTM3U
 
 #EXTINF:-1 group-title="SPORTS",90P(Kênh1_HD)
@@ -28,20 +31,25 @@ https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb
 
 
 #EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 1)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=6995fd79ae02f5559172feaccbfe46e0418c9502
+http://192.168.1.90:6878/ace/manifest.m3u8?id=fa149a0a37809ebfca5148041c3888498eaae429
 
 #EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 2)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
+http://192.168.1.90:6878/ace/manifest.m3u8?id=12722d111be8a2e069af83d535d5fd0b39734712
 
 
 #EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 3)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
+http://192.168.1.90:6878/ace/manifest.m3u8?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
 
 #EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 4)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=1925018afeb5d44791e4c49867c8c3259a018145
+http://192.168.1.90:6878/ace/manifest.m3u8?id=27618f71bc2611dca58af879642e0b507d0f39a0
 
 #EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 5)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=d4575f751d08f80801b2aa25e9c09aa774a95b0d
+http://192.168.1.90:6878/ace/manifest.m3u8?id=058a9ac982d6d29131f9bd277111f22de28400da
+
+
+
+
+
 
 #EXTINF:-1 group-title="A_SPORTS",Sky SPORT HD
 http://192.168.1.90:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
