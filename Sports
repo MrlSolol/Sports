@@ -1,5 +1,19 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="90",ro1
+https://jq9sucdqmfliv.vcdn.cloud/may1HD/may1HD@456.m3u8
+
+#EXTINF:-1 group-title="90",ro2
+https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8
+
+#EXTINF:-1 group-title="90",ro3
+https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/chunklist.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 1)
 http://192.168.1.90:6878/ace/manifest.m3u8?id=fa149a0a37809ebfca5148041c3888498eaae429
 
