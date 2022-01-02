@@ -2,9 +2,10 @@
 
 
 
+
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 1)
 #EXTVLCOPT:network-caching=1000
-acestream://fa149a0a37809ebfca5148041c3888498eaae429
+acestream://6a32506d04ca171ad76e100da8b5e62a875e94df
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 2)
 #EXTVLCOPT:network-caching=1000
@@ -17,11 +18,11 @@ acestream://3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 4)
 #EXTVLCOPT:network-caching=1000
-acestream://27618f71bc2611dca58af879642e0b507d0f39a0
+acestream://966bf9c2479d65f0d52bf9033430e92b7cfea242
 
 #EXTINF:-1 group-title="SPORTS",Tiengruoi.link (Kenh 5)
 #EXTVLCOPT:network-caching=1000
-acestream://058a9ac982d6d29131f9bd277111f22de28400da
+acestream://e0d6a0e875a3bebba88587da86dc5a0300abcf63
 
 
 
