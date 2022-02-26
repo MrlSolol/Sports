@@ -1,14 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="90",ro1
-https://jq9sucdqmfliv.vcdn.cloud/may1HD/may1HD@456.m3u8
-
-#EXTINF:-1 group-title="90",ro2
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8
-
-#EXTINF:-1 group-title="90",ro3
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/chunklist.m3u8
 
 
 
@@ -25,10 +17,10 @@ http://192.168.1.90:6878/ace/manifest.m3u8?id=12722d111be8a2e069af83d535d5fd0b39
 http://192.168.1.90:6878/ace/manifest.m3u8?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
 
 #EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 4)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=966bf9c2479d65f0d52bf9033430e92b7cfea242
+http://192.168.1.90:6878/ace/manifest.m3u8?id=d8d0d423c29b1e967a342bccd3386b421e7f7e16
 
 #EXTINF:-1 group-title="A_SPORTS",Tiengruoi.link (Kenh 5)
-http://192.168.1.90:6878/ace/manifest.m3u8?id=e0d6a0e875a3bebba88587da86dc5a0300abcf63
+http://192.168.1.90:6878/ace/manifest.m3u8?id=8b06c2c3f62025334728fc8f8a6b900a16e2101c
 
 
 
