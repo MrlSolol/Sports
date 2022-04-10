@@ -3,17 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/VuNIsY6JdUw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHOm_RJB18rRtYLqieJDuxCumLcg" group-title="Music", Taylor Swift - You Belong With Me
 https://www.youtube.com/watch?v=VuNIsY6JdUw
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Restream", Mimosachu
-https://sto030.akamai-cdn-content.com/tysxf536rk6oj6cdad5qtqqbod6mp5hgtdpbfjftpv7643rmvqmonieuthgq/su1899512513851r9c2c383fe27d6d78916da5f58fead3bc.flv.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Restream", Mimo
-https://aws-vod.nimo.tv/269f5de1vodsgp1256238590/193916ba387702297359316274/playlist_eof.m3u8?hyauid=1899512513851&hyroomid=1021117745&hyratio=2000&hyvid=1727128126570759093&hyscence=1&appid=81&domainid=14&srckey=ODFfMTRfMTcyNzEyODEyNjU3MDc1OTA5Mw%3D%3D&&u=1638702991290&t=100&sv=2203021918
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Restream", Xemesis
-https://cf-vod.nimo.tv/269f5de1vodsgp1256238590/efbec378387702297379260146/playlist_eof.m3u8?hyauid=1799511743537&hyroomid=2549959707&hyratio=2000&hyvid=1727175089589715893&hyscence=1&appid=81&domainid=14&srckey=ODFfMTRfMTcyNzE3NTA4OTU4OTcxNTg5Mw%3D%3D&&u=1638702991290&t=100&sv=2203021918
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Restream", 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Restream", 
 
@@ -25,7 +14,7 @@ https://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.nimo.tv/t/1799511743537/202107191626713271811_1799511743537_avatar.png/w120_l0/img.webp" group-title="Streams", Xemesis
-https://tx.flv.nimo.tv/backsrc/su1799511743537r5bc320121fd1755544001f4e68825b96.flv?appid=81&tp=1628074947035&ratio=6000&needwm=1&u=0&t=100&sv=2107061827
+https://tx.flv.nimo.tv/backsrc/su1799511743537r5bc320121fd1755544001f4e68825b96.flv?wsSecret=0e66f33302efb3cfd8775247a35d5bd8&wsTime=62527562&seqid=3289083445992&ctype=&ver=1&appid=81&tp=1649571170236&needwm=1&sphd=1&ratio=6000&&wsiphost=ipdbme&u=1638702991290&t=100&sv=2204081430
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.nimo.tv/t/1639514062140/202007121594528366427_1639514062140_avatar.png/w120_l0/img.webp" group-title="Streams", Qnt
 https://tx.flv.nimo.tv/backsrc/su1639514062140r44b21ec24b2ac6f0e82e688ed31267cb.flv?appid=81&tp=1625383954073&needwm=0&sphd=1&u=0&t=100&sv=2106221521
