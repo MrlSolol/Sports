@@ -11,10 +11,10 @@ https://www.youtube.com/watch?v=VuNIsY6JdUw
 https://179314182.global.cdnfastest.com:443/live/may052FHD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports", Match live 2
-https://179314182.global.cdnfastest.com/live/may2FHD/playlist.m3u8
+https://179314182.global.cdnfastest.com:443/live/may121/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports", Match live 3
-https://livestream-2.socialstreaming.tv/live/634c0f5fa0a597001c291b22/634c0f5fa0a597001c291b22.m3u8
+https://179314182.global.cdnfastest.com:443/live/may9/chunklist.m3u8
 
 
 
