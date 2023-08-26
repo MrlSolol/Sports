@@ -18,16 +18,32 @@ https://tx.flv.nimo.tv/backsrc/su1629511905172rdd6c82e8d1170c24f8292037f37f6561.
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streams", Live 11
-https://livestream-zlr1.tv360.vn:443/origin01/20230718/64b68f6d71bd140b6eb2d82d/720p50/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streams", Live 1
+https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streams", Live 2
+https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streams", Live 3
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streams", Live 4
 https://livestream-zlr1.tv360.vn:443/origin01/20230718/64b68f6d71bd140b6eb2d82d/1080p50f5Mb/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streams", Live 5
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streams", Live 6
+https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streams", Live 7
+https://1123139281.cdn.khmer-hd.com/cayHD/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streams", Live 8
+https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
 
 
 
